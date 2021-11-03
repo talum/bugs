@@ -7,6 +7,8 @@ hi<sup>[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-
 
 
    Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+   
+hot potato, cold potato
 
 
 [^1]: This is the first footnote.
