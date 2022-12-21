@@ -1,21 +1,31 @@
-# bug
+# Footnotes
 
-clean slate
+hi<sup>![badge-1361](https://user-images.githubusercontent.com/11878752/135524970-9a90816e-7698-4198-989d-e5bb51223d77.png)
+</sup>
 
-change 1
+hi<sup>[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)</sup>
 
-change 3
+auto merge updates
 
-change 2
+   Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+   
+hot potato, cold potato
 
-change 4
+more changes
 
-change 5
 
-change 6
+[^1]: This is the first footnote.
 
-change 7
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
 
 change 8
 
+
+    `{ my code }`
+    
+change 8
+
 testing codeowners
+
