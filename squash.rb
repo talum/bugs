@@ -1,1 +1,3 @@
 squash.rb
+
+test
