@@ -1,3 +1,3 @@
-squash.rb
+hi
 
 gourds!
