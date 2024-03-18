@@ -17,7 +17,8 @@ hot potato, cold potato
 
 [^bignote]: Here's one with multiple paragraphs and code.
 
-    Indent paragraphs to include them in the footnote.
 
-    `{ my code }`
-    
+change 8
+
+i own this code!
+codeowners 1
