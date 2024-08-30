@@ -1,0 +1,26 @@
+name: "Track bundle size"
+
+# Set one or more options for triggering workflow runs. Some common examples included below.
+on:
+  # Allows you to run this workflow manually from the Actions tab 
+  workflow_dispatch:
+
+  # Schedules workflow runs. See https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule for syntax.
+  schedule:
+    # Every Tuesday at 5 AM UTC (12 AM ET)
+    - cron: "0 7 * * 2"
+
+jobs:
+  track_bundle_size:
+    name: "Track bundle size"
+    runs-on: ubuntu-latest
+    env:
+      tracking_issue_number: 112
+      entry_file_names: "mergebox-partial.js,pull-request-viewer.js"
+    steps:
+      - name: Run track bundle size
+        uses: talum/track-bundle-size@171569f4ad7940a98388eb796403abf5c7c8c85a
+        with:
+          queried_repos: ${{ env.REPOS_TO_QUERY }}
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
