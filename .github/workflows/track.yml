@@ -21,4 +21,4 @@ jobs:
           tracking_issue_number: 112
           entry_file_names: "mergebox-partial.js,pull-request-viewer.js"
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
