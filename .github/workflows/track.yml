@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run track bundle size
-        uses: talum/track-bundle-size@fe33a42ad2f50110e0529b456c37afb77cf162bf
+        uses: talum/track-bundle-size@v1.0.0
         with:
           tracking_issue_number: 112
           entry_file_names: "mergebox-partial.js,pull-request-viewer.js,pull-request-commits.js,pulls-dashboard.js"
