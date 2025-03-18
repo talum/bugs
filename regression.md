@@ -1,5 +1,5 @@
 Branch B
-
+Branch B
 ### Regression tests
 boop
 Issue #113: EOL character weirdness on Windows
