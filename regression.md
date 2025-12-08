@@ -334,6 +334,10 @@ It has another footnote that contains many different characters (the autolinker 
 </ol>
 </section>
 
+<details>
+  <summary>hi</summary>
+  testing the regression file
+</details>
 
 Footnotes interacting with strikethrough should not lead to a use-after-free
 
