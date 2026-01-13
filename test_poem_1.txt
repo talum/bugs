@@ -1,7 +1,7 @@
 The Road Not Taken
 by Robert Frost
 
-Two roads diverged in a yellow wood,
+Two roads diverged in a yellow wood, outdated
 And sorry I could not travel both
 And be one traveler, long I stood
 And looked down one as far as I could
