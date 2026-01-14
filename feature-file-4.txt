@@ -1,4 +1,6 @@
 new file
 update main
-
+create conflict
 test change to file 4
+
+create another conflict
