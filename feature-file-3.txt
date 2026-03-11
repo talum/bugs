@@ -2,4 +2,12 @@ new file
 
 testing
 
+
+beep beep beep resolve me
+
 does this work? beep
+
+rebasing
+hello
+
+this is me doing something?
