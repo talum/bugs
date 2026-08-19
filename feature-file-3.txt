@@ -8,6 +8,7 @@ beep beep beep resolve me
 does this work? beep
 
 rebasing
-hello
-
-this is me doing something?
+test
+1
+2
+3
