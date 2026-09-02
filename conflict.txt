@@ -1,1 +1,1 @@
-value=feature
+value=base
